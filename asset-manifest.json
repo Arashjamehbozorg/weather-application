@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arashjamehbozorg.github.io/weather-application/static/css/main.5a78aeb7.css",
+    "main.js": "/arashjamehbozorg.github.io/weather-application/static/js/main.83bd4396.js",
+    "index.html": "/arashjamehbozorg.github.io/weather-application/index.html",
+    "main.5a78aeb7.css.map": "/arashjamehbozorg.github.io/weather-application/static/css/main.5a78aeb7.css.map",
+    "main.83bd4396.js.map": "/arashjamehbozorg.github.io/weather-application/static/js/main.83bd4396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a78aeb7.css",
+    "static/js/main.83bd4396.js"
+  ]
+}
