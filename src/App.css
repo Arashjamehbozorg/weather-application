@@ -1,0 +1,17 @@
+body {
+  min-height: 125vh;
+}
+
+.main {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 768px) and (max-width: 768px) {
+  .margin-remover {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+  }
+}
