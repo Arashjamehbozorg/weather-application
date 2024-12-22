@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-The Weather Dashboard is a responsive, user-friendly web application developed using React.js and Tailwind CSS. It provides real-time weather information, utilizing the WeatherAPI to fetch and display the weather data accurately. It’s equipped with dynamic features such as displaying weather alerts, a 5-day forecast, and dynamic backgrounds reflecting current weather conditions.
+The Weather Dashboard is a responsive, user-friendly web application developed using React.js and Tailwind CSS. It provides real-time weather information, utilizing the WeatherAPI to fetch and display the weather data accurately. It’s equipped with dynamic features such as displaying weather alerts, a 3-day forecast, and dynamic backgrounds reflecting current weather conditions.
 
 ## Features
 
 - **Real-Time Weather Information:** Provides current weather information for any selected city.
-- **5-Day Forecast:** Offers a detailed weather forecast for the upcoming five days.
+- **3-Day Forecast:** Offers a detailed weather forecast for the upcoming three days.
 - **Dynamic Backgrounds:** Backgrounds change according to the current weather conditions and time of day.
 - **Temperature Scale Toggle:** Allows toggling between Celsius and Fahrenheit temperature scales.
 - **Geolocation Feature:** Fetches and displays local weather information using the user’s current location.
@@ -23,7 +23,7 @@ This application is modular and comprises several React components:
 - **Inputs:** Manages search inputs, search events, and temperature scale toggling.
 - **TimeAndLocation:** Displays the current time and location.
 - **TemperatureAndDetails:** Presents the current temperature and other weather details.
-- **Forecast:** Renders a 5-day weather forecast.
+- **Forecast:** Renders a 3-day weather forecast.
 
 ## Technologies Used
 
